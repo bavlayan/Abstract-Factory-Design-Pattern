@@ -1,0 +1,6 @@
+c:\users\avlayan_b\documents\visual studio 2015\Projects\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.exe.config
+c:\users\avlayan_b\documents\visual studio 2015\Projects\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.exe
+c:\users\avlayan_b\documents\visual studio 2015\Projects\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.pdb
+c:\users\avlayan_b\documents\visual studio 2015\Projects\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.csprojResolveAssemblyReference.cache
+c:\users\avlayan_b\documents\visual studio 2015\Projects\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.exe
+c:\users\avlayan_b\documents\visual studio 2015\Projects\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.pdb
